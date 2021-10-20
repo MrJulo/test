@@ -1,1 +1,1 @@
-mkdir /dato
+mkdir /dato/dy
