@@ -226,4 +226,4 @@ WantedBy=multi-user.target
 EOF
 systemctl daemon-reload
 systemctl restart trojan
-systemctl enable trojan 
+systemctl enable trojan
